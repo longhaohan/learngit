@@ -1,2 +1,2 @@
-Git is a versign control system.
+Git is a distributed versign control system.
 Git is free software
